@@ -1,0 +1,6 @@
+INSERT INTO `library_management_system`.`book_details` (`book_no`, `book_Name`, `author`, `price`, `publisher`, `book_status`) VALUES ('24', 'The Diary of young Girl', 'Anne Frank', '325', 'jk publisher', '0');
+INSERT INTO `library_management_system`.`book_details` (`book_no`, `book_Name`, `author`, `price`, `publisher`, `book_status`) VALUES ('25', 'Frankenstein', 'Mary Wollstonecraft Shelley', '400', 'ray pbulisher', '0');
+INSERT INTO `library_management_system`.`book_details` (`book_no`, `book_Name`, `author`, `price`, `publisher`, `book_status`) VALUES ('27', 'The Great Gatsby', 'F. Scott Fitzgerald', '230', 'Ban publication', '0');
+INSERT INTO `library_management_system`.`book_details` (`book_no`, `book_Name`, `author`, `price`, `publisher`, `book_status`) VALUES ('28', 'harry potter 1', 'JK Rowling', '333', 'Ban publication', '0');
+INSERT INTO `library_management_system`.`book_details` (`book_no`, `book_Name`, `author`, `price`, `publisher`, `book_status`) VALUES ('29', 'harry potter 2', 'JK Rowling', '255', 'Ban publication', '0');
+INSERT INTO `library_management_system`.`book_details` (`book_no`, `book_Name`, `author`, `price`, `publisher`, `book_status`) VALUES ('20', 'harry potter 3', 'JK Rowling', '255', 'Ban publication', '0');
